@@ -46,7 +46,7 @@ Aplikasi Pengelolaan KRS adalah sebuah aplikasi berbasis desktop yang digunakan 
 4. Jalankan aplikasi dari IDE.
 
 ## Pengembang
-- Nama: Ayu Khofifah
+- Nama: Ayu Atut Khofifah
 - NPM: 2210010553
 
 ## Lisensi
